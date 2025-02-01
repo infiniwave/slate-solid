@@ -18,9 +18,9 @@
   "typesVersions": {},
   "browser": {},
   "exports": {
-    "solid": {
-      "development": "./dist/index.jsx",
-      "import": "./dist/index.jsx"
+    ".": {
+      "solid": "./dist/index.jsx",
+      "default": "./dist/index.js"
     }
   },
   "scripts": {
